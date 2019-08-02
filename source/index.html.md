@@ -34,7 +34,7 @@ To start using OneConnect API you need to create an account on the OneConnect we
 
 ## IP Restrictions
 
-In order to improve the security of the API, you can create a whitelist of IP addresses on your profile page. Every HTTP requrest will be accepted only from those IPs. Every request send from a different IP address will be rejected.
+In order to improve the security of the API, you can create a whitelist of IP addresses on your profile page. Every HTTP requrest will be accepted only from those IPs. Every request sent from a different IP address will be rejected.
 
 For now the service of IP restriction is only avalable to customers with Business plan.
 
